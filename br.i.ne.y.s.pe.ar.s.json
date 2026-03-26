@@ -78,25 +78,25 @@
       ]
     },
    {
-      "category": "Pop Rock Classics",
+    "category": "Pop & Rock Classics",
       "tracks": [
-        { "id": "b7k0a5hYnSI", "title": "Breathless", "duration": 208 },
-        { "id": "TIy3n2b7V9k", "title": "You're Still The One", "duration": 213 },
-        { "id": "roPQ_M3yJTA", "title": "Foolish Games", "duration": 242 },
-        { "id": "tO4dxvguQDk", "title": "As I Lay Me Down", "duration": 248 },
-        { "id": "lt6PVVr4B04", "title": "Kiss Me", "duration": 208 },
-        { "id": "LOcKckBLouM", "title": "Bitch", "duration": 252 },
-        { "id": "NPcyTyilmYY", "title": "Ironic", "duration": 230 },
-        { "id": "A_HekkBbd1M", "title": "If It Makes You Happy", "duration": 303 },
-        { "id": "lbjZPFBD6JU", "title": "Stay (I Missed You)", "duration": 184 },
-        { "id": "yCmsZUN4r_s", "title": "Say What You Want", "duration": 233 },
-        { "id": "8BglEyv5O2Y", "title": "Orinoco Flow", "duration": 226 },
-        { "id": "M11SvDtPBhA", "title": "Linger", "duration": 277 },
-        { "id": "VT1-sitWRtY", "title": "Eternal Flame", "duration": 236 },
-        { "id": "EgT_us6AsDg", "title": "Heaven Is A Place On Earth", "duration": 241 },
-        { "id": "8mGBaXPlri8", "title": "Time After Time", "duration": 241 },
-        { "id": "kIDWgqDBNXA", "title": "Criminal", "duration": 220 },
-        { "id": "yeSJ2YdhG5k", "title": "What's Up", "duration": 295 }
+        { "id": "b7k0a5hYnSI", "title": "Natasha Bedingfield - Unwritten", "duration": 226 },
+        { "id": "TIy3n2b7V9k", "title": "Avril Lavigne - Sk8er Boi", "duration": 219 },
+        { "id": "roPQ_M3yJTA", "title": "Nelly Furtado - I'm Like A Bird", "duration": 244 },
+        { "id": "tO4dxvguQDk", "title": "Norah Jones - Don't Know Why", "duration": 183 },
+        { "id": "lt6PVVr4B04", "title": "Hilary Duff - So Yesterday", "duration": 218 },
+        { "id": "LOcKckBLouM", "title": "Avril Lavigne - Losing Grip", "duration": 236 },
+        { "id": "NPcyTyilmYY", "title": "Alanis Morissette - You Oughta Know", "duration": 253 },
+        { "id": "A_HekkBbd1M", "title": "M2M - The Day You Went Away", "duration": 217 },
+        { "id": "lbjZPFBD6JU", "title": "Norah Jones - Come Away With Me", "duration": 195 },
+        { "id": "yCmsZUN4r_s", "title": "Faith Hill - Breathe", "duration": 250 },
+        { "id": "8BglEyv5O2Y", "title": "The Corrs - Dreams", "duration": 240 },
+        { "id": "M11SvDtPBhA", "title": "Miley Cyrus - Party In The U.S.A.", "duration": 208 },
+        { "id": "VT1-sitWRtY", "title": "Avril Lavigne - Wish You Were Here", "duration": 227 },
+        { "id": "EgT_us6AsDg", "title": "Selena Gomez & The Scene - Love You Like A Love Song", "duration": 221 },
+        { "id": "8mGBaXPlri8", "title": "t.A.T.u. - All The Things She Said", "duration": 227 },
+        { "id": "kIDWgqDBNXA", "title": "Christina Aguilera - Genie In A Bottle", "duration": 217 },
+        { "id": "yeSJ2YdhG5k", "title": "Jennifer Lopez - All I Have (ft. LL Cool J)", "duration": 259 }
       ]
     }
   ]
