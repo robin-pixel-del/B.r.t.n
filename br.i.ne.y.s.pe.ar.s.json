@@ -1,7 +1,7 @@
 {
   "genres": [
     {
-      "category": "Ana Bárbara - Regional Mexicano",
+      "category": "Ana Bárbara",
       "tracks": [
         { "id": "dfFDtDCVwEo", "title": "Bandido", "duration": 182 },
         { "id": "YM0O_TNYwVk", "title": "Loca", "duration": 204 },
@@ -9,20 +9,20 @@
       ]
     },
     {
-      "category": "Katy Perry - Pop Essentials",
+      "category": "Katy Perry",
       "tracks": [
         { "id": "kTHNpusq654", "title": "Hot N Cold", "duration": 284 },
         { "id": "Ahha3Cqe_fk", "title": "The One That Got Away", "duration": 290 }
       ]
     },
     {
-      "category": "Eurodance & Classics",
+      "category": "Euro",
       "tracks": [
         { "id": "ZyhrYis509A", "title": "Barbie Girl", "duration": 202 }
       ]
     },
     {
-      "category": "Britney Spears - Classic Pop",
+      "category": "Britney Spears",
       "tracks": [
         { "id": "C-u5WLJ9Yk4", "title": "...Baby One More Time", "duration": 237 },
         { "id": "CduA0TULnow", "title": "Oops!... I Did It Again", "duration": 253 },
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "category": "Britney Spears - Dance & Urban",
+      "category": "Britney",
       "tracks": [
         { "id": "Q4VK9_CfOLQ", "title": "Toxic (Drive Me Crazy Remix)", "duration": 199 },
         { "id": "Mzybwwf2HoQ", "title": "I'm A Slave 4 U", "duration": 204 },
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "category": "Britney Spears - Emotional & Midtempo",
+      "category": "Britney Spearsmpo",
       "tracks": [
         { "id": "IlV7RhT6zHs", "title": "I'm Not A Girl, Not Yet A Woman", "duration": 229 },
         { "id": "PZYSiWHW8V0", "title": "Overprotected", "duration": 235 }
