@@ -48,68 +48,55 @@
       ]
     },
     {
-      "category": "Avril Lavigne",
+      "category": "Pop Rock Essentials",
       "tracks": [
         { "id": "5NPBIwQyPWE", "title": "Complicated", "duration": 254 },
+        { "id": "xSZBIs0gs0E", "title": "Sk8er Boi", "duration": 217 },
+        { "id": "TR3Vdo5etCQ", "title": "Don't Speak", "duration": 301 },
         { "id": "dGR65RWwzg8", "title": "I'm With You", "duration": 225 },
-        { "id": "0G3_kG5FFfQ", "title": "When You're Gone", "duration": 240 }
-      ]
-    },
-    {
-      "category": "Kelly Clarkson",
-      "tracks": [
-        { "id": "c-3vPxKdj6o", "title": "Breakaway", "duration": 236 },
-        { "id": "Ra-Om7UMSJc", "title": "Because Of You", "duration": 224 }
-      ]
-    },
-    {
-      "category": "The Cranberries",
-      "tracks": [
-        { "id": "6Ejga4kJUts", "title": "Zombie", "duration": 308 },
-        { "id": "M11SvDtPBhA", "title": "Linger", "duration": 278 }
-      ]
-    },
-    {
-      "category": "Taylor Swift",
-      "tracks": [
+        { "id": "uwBwKcQ1k84", "title": "Underneath Your Clothes", "duration": 245 },
+        { "id": "O3dWBLoU--E", "title": "Celebrity Skin", "duration": 164 },
+        { "id": "v45F0YesdZM", "title": "Kiss Me", "duration": 197 },
         { "id": "8xg3vE8Ie_E", "title": "Love Story", "duration": 237 },
-        { "id": "VuNIsY6JdUw", "title": "You Belong With Me", "duration": 229 }
+        { "id": "c-3vPxKdj6o", "title": "Breakaway", "duration": 236 },
+        { "id": "WJCsyLUCSXI", "title": "Pieces Of Me", "duration": 192 },
+        { "id": "0G3_kG5FFfQ", "title": "When You're Gone", "duration": 240 },
+        { "id": "8tRbvIOA4WI", "title": "Sage and Shine", "duration": 259 },
+        { "id": "GpBFOJ3R0M4", "title": "Only Happy When It Rains", "duration": 242 },
+        { "id": "SqdWTeXWvOg", "title": "I Love You Always Forever", "duration": 231 },
+        { "id": "VuNIsY6JdUw", "title": "You Belong With Me", "duration": 229 },
+        { "id": "5anLPw0Efmo", "title": "My Immortal", "duration": 271 },
+        { "id": "rp4UwPZfRis", "title": "Unfaithful", "duration": 297 },
+        { "id": "6Ejga4kJUts", "title": "Zombie", "duration": 308 },
+        { "id": "aDdOnl0bHO4", "title": "One Of Us", "duration": 291 },
+        { "id": "Ra-Om7UMSJc", "title": "Because Of You", "duration": 224 },
+        { "id": "Bg59q4puhmg", "title": "Girlfriend", "duration": 228 },
+        { "id": "ZJL4UGSbeFg", "title": "Man! I Feel Like A Woman!", "duration": 235 },
+        { "id": "NG2zyeVRcbs", "title": "The Climb", "duration": 229 },
+        { "id": "s8QYxmpuyxg", "title": "My Happy Ending", "duration": 241 },
+        { "id": "NJWIbIe0N90", "title": "Who Knew", "duration": 213 }
       ]
     },
-    {
-      "category": "90s & 00s Pop/Rock Essentials",
+   {
+      "category": "Pop Rock Classics",
       "tracks": [
-        { "id": "TR3Vdo5etCQ", "title": "No Doubt - Don't Speak", "duration": 301 },
-        { "id": "uwBwKcQ1k84", "title": "Shakira - Underneath Your Clothes", "duration": 245 },
-        { "id": "O3dWBLoU--E", "title": "Hole - Celebrity Skin", "duration": 164 },
-        { "id": "v45F0YesdZM", "title": "Sixpence None The Richer - Kiss Me", "duration": 197 },
-        { "id": "WJCsyLUCSXI", "title": "Ashlee Simpson - Pieces Of Me", "duration": 192 },
-        { "id": "GpBFOJ3R0M4", "title": "Garbage - Only Happy When It Rains", "duration": 242 },
-        { "id": "SqdWTeXWvOg", "title": "Donna Lewis - I Love You Always Forever", "duration": 231 },
-        { "id": "5anLPw0Efmo", "title": "Evanescence - My Immortal", "duration": 271 },
-        { "id": "rp4UwPZfRis", "title": "Rihanna - Unfaithful", "duration": 297 },
-        { "id": "aDdOnl0bHO4", "title": "Joan Osborne - One Of Us", "duration": 291 },
-        { "id": "Bg59q4puhmg", "title": "The Cardigans - Lovefool", "duration": 198 },
-        { "id": "ZJL4UGSbeFg", "title": "Dido - Thank You", "duration": 220 },
-        { "id": "NG2zyeVRcbs", "title": "Natalie Imbruglia - Torn", "duration": 246 },
-        { "id": "s8QYxmpuyxg", "title": "Vanessa Carlton - A Thousand Miles", "duration": 240 },
-        { "id": "NJWIbIe0N90", "title": "Michelle Branch - Everywhere", "duration": 215 },
-        { "id": "b7k0a5hYnSI", "title": "The Corrs - Breathless", "duration": 211 },
-        { "id": "TIy3n2b7V9k", "title": "Shania Twain - You're Still The One", "duration": 200 },
-        { "id": "roPQ_M3yJTA", "title": "Jewel - Foolish Games", "duration": 242 },
-        { "id": "tO4dxvguQDk", "title": "Sophie B. Hawkins - As I Lay Me Down", "duration": 248 },
-        { "id": "lt6PVVr4B04", "title": "Sixpence None The Richer - Kiss Me (Alt)", "duration": 209 },
-        { "id": "LOcKckBLouM", "title": "Meredith Brooks - Bitch", "duration": 243 },
-        { "id": "NPcyTyilmYY", "title": "Alanis Morissette - Ironic", "duration": 231 },
-        { "id": "A_HekkBbd1M", "title": "Sheryl Crow - If It Makes You Happy", "duration": 272 },
-        { "id": "lbjZPFBD6JU", "title": "Lisa Loeb - Stay (I Missed You)", "duration": 183 },
-        { "id": "yCmsZUN4r_s", "title": "Texas - Say What You Want", "duration": 231 },
-        { "id": "8BglEyv5O2Y", "title": "Enya - Orinoco Flow", "duration": 226 },
-        { "id": "VT1-sitWRtY", "title": "The Bangles - Eternal Flame", "duration": 235 },
-        { "id": "EgT_us6AsDg", "title": "Belinda Carlisle - Heaven Is A Place On Earth", "duration": 245 },
-        { "id": "8mGBaXPlri8", "title": "Cyndi Lauper - Time After Time", "duration": 238 },
-        { "id": "kIDWgqDBNXA", "title": "Fiona Apple - Criminal", "duration": 223 },
-        { "id": "yeSJ2YdhG5k", "title": "4 Non Blondes - What's Up", "duration": 293 }
+        { "id": "b7k0a5hYnSI", "title": "Breathless", "duration": 208 },
+        { "id": "TIy3n2b7V9k", "title": "You're Still The One", "duration": 213 },
+        { "id": "roPQ_M3yJTA", "title": "Foolish Games", "duration": 242 },
+        { "id": "tO4dxvguQDk", "title": "As I Lay Me Down", "duration": 248 },
+        { "id": "lt6PVVr4B04", "title": "Kiss Me", "duration": 208 },
+        { "id": "LOcKckBLouM", "title": "Bitch", "duration": 252 },
+        { "id": "NPcyTyilmYY", "title": "Ironic", "duration": 230 },
+        { "id": "A_HekkBbd1M", "title": "If It Makes You Happy", "duration": 303 },
+        { "id": "lbjZPFBD6JU", "title": "Stay (I Missed You)", "duration": 184 },
+        { "id": "yCmsZUN4r_s", "title": "Say What You Want", "duration": 233 },
+        { "id": "8BglEyv5O2Y", "title": "Orinoco Flow", "duration": 226 },
+        { "id": "M11SvDtPBhA", "title": "Linger", "duration": 277 },
+        { "id": "VT1-sitWRtY", "title": "Eternal Flame", "duration": 236 },
+        { "id": "EgT_us6AsDg", "title": "Heaven Is A Place On Earth", "duration": 241 },
+        { "id": "8mGBaXPlri8", "title": "Time After Time", "duration": 241 },
+        { "id": "kIDWgqDBNXA", "title": "Criminal", "duration": 220 },
+        { "id": "yeSJ2YdhG5k", "title": "What's Up", "duration": 295 }
       ]
     }
   ]
