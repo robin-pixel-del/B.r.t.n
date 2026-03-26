@@ -1,6 +1,27 @@
 {
   "genres": [
     {
+      "category": "Ana Bárbara - Regional Mexicano",
+      "tracks": [
+        { "id": "dfFDtDCVwEo", "title": "Bandido", "duration": 182 },
+        { "id": "YM0O_TNYwVk", "title": "Loca", "duration": 204 },
+        { "id": "P1zbGLuR6sw", "title": "La Trampa", "duration": 194 }
+      ]
+    },
+    {
+      "category": "Katy Perry - Pop Essentials",
+      "tracks": [
+        { "id": "kTHNpusq654", "title": "Hot N Cold", "duration": 284 },
+        { "id": "Ahha3Cqe_fk", "title": "The One That Got Away", "duration": 290 }
+      ]
+    },
+    {
+      "category": "Eurodance & Classics",
+      "tracks": [
+        { "id": "ZyhrYis509A", "title": "Barbie Girl", "duration": 202 }
+      ]
+    },
+    {
       "category": "Britney Spears - Classic Pop",
       "tracks": [
         { "id": "C-u5WLJ9Yk4", "title": "...Baby One More Time", "duration": 237 },
